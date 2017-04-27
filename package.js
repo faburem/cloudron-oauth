@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'kromit:cloudron',
+  name: 'faburem:cloudron',
   version: '0.0.1',
   summary: 'OAuth handler for Cloudron',
   git: 'https://github.com/faburem/cloudron-oauth',
